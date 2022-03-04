@@ -152,7 +152,7 @@
 | sports              | 150M | [ ]   |
 | sqa                 | 308M | [ ]   |
 | stackapps           | 311M | [ ]   |
-| stackoverflow       | 52G  | [ ]   |
+| stackoverflow       | 52G  | [x]   |
 | startups            | 113M | [ ]   |
 | stats               | 2.6G | [ ]   |
 | stellar             | 28M  | [ ]   |
