@@ -1,3 +1,5 @@
+List of some stack-exchange communities.
+
 | Stack               | Size | State                     |
 | ------------------- | ---- | ------------------------- |
 | 3dprinting          | 245M | <ul><li> - [ ] </li></ul> |
