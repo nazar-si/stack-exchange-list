@@ -108,7 +108,7 @@
 | musicfans           | 75M  | <ul><li> - [ ] </li></ul> |
 | mythology           | 68M  | <ul><li> - [ ] </li></ul> |
 | networkengineering  | 435M | <ul><li> - [ ] </li></ul> |
-| opendata            | 159M | <ul><li> - [x]< /li></ul> |
+| opendata            | 159M | <ul><li> - [ ] </li></ul> |
 | opensource          | 126M | <ul><li> - [ ] </li></ul> |
 | or                  | 36M  | <ul><li> - [ ] </li></ul> |
 | outdoors            | 307M | <ul><li> - [ ] </li></ul> |
@@ -152,7 +152,7 @@
 | sports              | 150M | <ul><li> - [ ] </li></ul> |
 | sqa                 | 308M | <ul><li> - [ ] </li></ul> |
 | stackapps           | 311M | <ul><li> - [ ] </li></ul> |
-| stackoverflow       | 52G  | <ul><li> - [ ] </li></ul> |
+| stackoverflow       | 52G  | <ul><li> - [x] </li></ul> |
 | startups            | 113M | <ul><li> - [ ] </li></ul> |
 | stats               | 2.6G | <ul><li> - [ ] </li></ul> |
 | stellar             | 28M  | <ul><li> - [ ] </li></ul> |
