@@ -1,4 +1,4 @@
-List of some stack-exchange communities.
+List of some stack-exchange communities (and size of their html-backup).
 
 | Stack               | Size | State                     |
 | ------------------- | ---- | ------------------------- |
